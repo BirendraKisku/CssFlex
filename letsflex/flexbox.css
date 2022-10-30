@@ -2,6 +2,15 @@
     padding: 0%;
     margin: 0%;
 }
+/*By default everything comes in new line or aligned as per their default style   */
+/*Flex containers is to group a bunch of flex items together and define how they are positioned */
+/*Web Pages wit flexbox is all about nesting boxes.Some important features
+justify-content (horizontal);
+align-items(vertical);
+flex-wrap:wrap extra goes to next line  
+flex-direction: row/column 
+*/
+
 
 .container{
     background-color: aqua;
